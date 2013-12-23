@@ -1,0 +1,34 @@
+.mmm_left{
+background-image:url("../img/mmm_left.png");
+width:9px;
+}
+.mmm_right{
+background-image:url("../img/mmm_right.png");
+width:8px;
+}
+.mmm_center{
+background-image:url("../img/mmm_center.png");
+font-family:verdana;
+color:#13738b;
+font-size:18px;
+font-weight:normal;
+
+}
+.imgHome{
+    font-family:verdana;
+	color:#13738b;
+	font-size:12px;
+	font-weight:bold;
+	padding-left:-0px;
+	padding-top:0px;
+    text-decoration: none;
+    line-height: 25px;
+	list-style-type: none;
+}
+.darrow{
+	color:#13738b;
+}
+img
+{
+	border:0px;
+}
